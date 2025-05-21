@@ -22,5 +22,9 @@
   {
     "role": "ai_message",
     "content": "I apologize, but I still don't have access to any image that you're referring to. There's no image uploaded or shared in our conversation that I can see or analyze. \n\nTo help you create what you want, I need more information. Could you please:\n\n1. Describe what you see in the image you're referring to?\n2. Or, if there's no specific image, tell me what kind of web page or component you'd like to create?\n\nOnce you provide more details about what you want to build, I'll be happy to help you implement it in your React application. Please give me as much information as possible about the layout, colors, components, or functionality you're looking for."
+  },
+  {
+    "role": "user",
+    "content": "create what is in imag"
   }
 ]
