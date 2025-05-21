@@ -61,7 +61,13 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				blue: {
+					600: '#0000FF', // Adjust this to match the exact blue in the image
+				},
+				green: {
+					700: '#008000', // Adjust this to match the exact green in the image
+				},
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
