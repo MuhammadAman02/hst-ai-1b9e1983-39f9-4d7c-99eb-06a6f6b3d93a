@@ -63,10 +63,10 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				},
 				blue: {
-					600: '#0000FF', // Adjust this to match the exact blue in the image
+					700: '#0000FF', // Adjust this to match the exact blue in the image
 				},
 				green: {
-					700: '#008000', // Adjust this to match the exact green in the image
+					600: '#008000', // Adjust this to match the exact green in the image
 				},
 			},
 			// ... keep existing code
